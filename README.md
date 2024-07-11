@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="color:#8a2be2;">Hi there, I'm Yuva Krishna Thanneru 👋</h1>
-  <img src="https://image.cdn2.seaart.ai/2023-09-06/16441426359402501/b26a9aace8eaa55887f5682e509a2d5cc7a16c68_high.webp" align="right" width="200"/>
+  <h1 style="color:#8a2be2;">Hi there, I'm Bharrgavi Thanneru 👋</h1>
+  <img src="https://github.com/Bharrgavi26/Bharrgavi-Thanneru/assets/175340040/75563ce8-eb61-4bb3-acd7-366194b9b7ae" align="right" width="200"/>
 </div>
 👋 Greetings,
 
@@ -10,10 +10,10 @@ My journey in the technology industry began as a System Engineer at Infosys, whe
 
 🏆 Key Achievements:
 
-🚀 Developed and maintained Java/J2EE applications, ensuring high performance, scalability, and reliability in alignment with client requirements and industry best practices.
-🔧 Designed and implemented RESTful APIs, facilitating seamless communication and integration between diverse systems and platforms.
-💡 Leveraged Spring framework to streamline development processes, enhance application modularity, and optimize resource utilization, resulting in improved efficiency and agility.
-🔍 Actively participated in system analysis, troubleshooting, and performance tuning activities, ensuring smooth operation and maximum uptime.
-🤝 Collaborated with stakeholders to gather requirements, define project scope, and provide technical insights, contributing to the successful delivery of solutions that met client expectations.
+- 🚀 Developed and maintained Java/J2EE applications, ensuring high performance, scalability, and reliability in alignment with client requirements and industry best practices.
+- 🔧 Designed and implemented RESTful APIs, facilitating seamless communication and integration between diverse systems and platforms.
+- 💡 Leveraged Spring framework to streamline development processes, enhance application modularity, and optimize resource utilization, resulting in improved efficiency and agility.
+- 🔍 Actively participated in system analysis, troubleshooting, and performance tuning activities, ensuring smooth operation and maximum uptime.
+- 🤝 Collaborated with stakeholders to gather requirements, define project scope, and provide technical insights, contributing to the successful delivery of solutions that met client expectations.
 
 Certified in Business Communication Excellence and Generative AI, I am dedicated to continuous learning and growth, always seeking to expand my skill set and stay ahead of industry trends. With expertise in resolving code issues using ESAPI and CSRF Guard Configurations, as well as proficiency in Git management, Jenkins, debugging, troubleshooting, and deployment solutions, I am well-equipped to tackle complex challenges and drive success.📚📈
