@@ -2,12 +2,13 @@
   <h1 style="color:#8a2be2;">Hi there, I'm Bharrgavi Thanneru 👋</h1>
   <img src="https://github.com/Bharrgavi26/Bharrgavi-Thanneru/assets/175340040/75563ce8-eb61-4bb3-acd7-366194b9b7ae" align="right" width="200"/>
 </div>
+
+
 👋 Welcome to My GitHub Profile!
-About Me
-Greetings! I am a passionate Java Developer currently contributing to The DevOps Team. With a wealth of experience in web application development, I specialize in Java/J2EE, SQL, Spring, and REST API development. My journey has been fueled by a commitment to innovation and delivering impactful solutions.
+- I am a passionate Java Developer currently contributing to The DevOps Team. With a wealth of experience in web application development, I specialize in Java/J2EE, SQL, Spring, and REST API development. My journey has been fueled by a commitment to innovation and delivering impactful solutions.
 
 ### Professional Journey
-My career in technology kicked off at Infosys as a System Engineer, where I honed my skills in Java/J2EE, RESTful APIs, and Spring. Collaborating with cross-functional teams, I played a pivotal role in architecting, developing, and deploying robust systems, driving the success of various projects and initiatives.
+- My career in technology kicked off at Infosys as a System Engineer, where I honed my skills in Java/J2EE, RESTful APIs, and Spring. Collaborating with cross-functional teams, I played a pivotal role in architecting, developing, and deploying robust systems, driving the success of various projects and initiatives.
 
 ### Key Skills and Expertise
 - **Java/J2EE**: Crafting high-performance, scalable, and reliable applications.
